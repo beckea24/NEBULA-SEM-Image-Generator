@@ -48,7 +48,9 @@ nebula_config.py
             feature_mat
         ]
 ```
-    It is by default the CPU run.
+
+It is by default the CPU run.
+
 ```   
         nebula_cmd = [
             "nebula_cpu_mt", 
