@@ -47,7 +47,9 @@ nebula_config.py
             substrate_mat, 
             feature_mat
         ]
+```
     It is by default the CPU run.
+```   
         nebula_cmd = [
             "nebula_cpu_mt", 
             tri_file, 
